@@ -1,0 +1,7 @@
+# Training-Python
+user_input = input('what is happened in work ?')
+for item in user_input :
+  user_input.split(" ")
+user_input = user_input.split(" ")
+print(user_input)
+print(len(user_input))
